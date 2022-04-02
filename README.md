@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **PHP**
 - 📝 I recently started logging what I learned [here](https://HyangYoung.github.io/blog/)
 - 💬 Ask me about **Python, Django**
-- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/hyangyoung/)
+- 📄 Find out about my experience in [Linkedin](https://www.linkedin.com/in/hyangyoung/)
 
 
 <h3 align="left">Languages and Tools:</h3>
